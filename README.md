@@ -8,12 +8,12 @@
 
 - 💬 Feel free to have a chat with me or ask something
 
-- ⚡ (Buildig a ***blazingly*** fast new, unique javascript framework xd)
+- ⚡ (Building a ***blazingly*** fast, new and unique javascript framework xd)
 
 
 
 <h3 align="left">Languages and Tools:</h3>
 
-- 📢 I primarly use NextJS (or just ReactJS), ExpressJS, NodeJS, and many more *ending with JS*
+- 📢 I primarly use **tools** like NextJS (or just ReactJS), ExpressJS, NodeJS, and many more *ending with JS*
 
-- 🏁 Languages I use are are Javascript, Typescript, C#, Java, Python, Bash, (HTMl, CSS, SCSS/SASS)
+- 🏁 **Languages** I use are are Javascript, Typescript, C#, Java, Python, Bash, (HTMl, CSS, SCSS/SASS)
