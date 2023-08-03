@@ -10,6 +10,11 @@
 
 <br/>
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+<br/>
+
 <p align="center">
    <h2 align="center"><b>✨ Skills/Professions </b></h2>
    <p align="center">🆘 <b>Tools</b>: NextJS (or just ReactJS), ExpressJS, NodeJS, and many more <i>ending with JS</i>...</p>
