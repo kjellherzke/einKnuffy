@@ -15,18 +15,9 @@
    <p align="center">
 <img src="https://lanyard.cnrad.dev/api/675737917200662539" alt="" />
 
-
 <!--START_SECTION:waka-->
-
-```txt
-Lua        1 hr 21 mins    ████████████████████▓░░░░   83.29 %
-Rust       7 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.94 %
-Markdown   5 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.93 %
-GLSL       2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.82 %
-fugitive   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
-```
-
 <!--END_SECTION:waka-->
+
    </p>
 </p>
 
