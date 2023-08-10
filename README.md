@@ -18,20 +18,18 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%20hr%2038%20mins-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-13.0%20thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-8.1%20million%20lines%20of%20code-blue)
 
-**🐱 My GitHub Data** 
+**I'm an Early 🐤** 
 
-> 📦 1.2 MB Used in GitHub's Storage 
- > 
-> 🏆 661 Contributions in the Year 2023
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 3 Public Repositories 
- > 
-> 🔑 17 Private Repositories 
- > 
+```text
+🌞 Morning                200 commits         █████░░░░░░░░░░░░░░░░░░░░   18.74 % 
+🌆 Daytime                409 commits         ██████████░░░░░░░░░░░░░░░   38.33 % 
+🌃 Evening                454 commits         ███████████░░░░░░░░░░░░░░   42.55 % 
+🌙 Night                  4 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 % 
+```
+
+
 📊 **This Week I Spent My Time On** 
 
 ```text
@@ -46,21 +44,15 @@ fugitive                 0 secs              ░░░░░░░░░░░�
 
 🔥 Editors: 
 Neovim                   1 hr 38 mins        █████████████████████████   100.00 % 
-```
 
-**I Mostly Code in TypeScript** 
-
-```text
-TypeScript               7 repos             █████████████░░░░░░░░░░░░   53.85 % 
-JavaScript               3 repos             ██████░░░░░░░░░░░░░░░░░░░   23.08 % 
-Lua                      2 repos             ████░░░░░░░░░░░░░░░░░░░░░   15.38 % 
-HTML                     1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
+🐱‍💻 Projects: 
+nvim                     1 hr 16 mins        ███████████████████░░░░░░   77.54 % 
+betterpresence.nvim      11 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.70 % 
+raender                  10 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.76 % 
 ```
 
 
-
-
- Last Updated on 10/08/2023 15:57:03 UTC
+ Last Updated on 10/08/2023 16:28:21 UTC
 <!--END_SECTION:waka-->
 
    </p>
