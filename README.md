@@ -16,6 +16,8 @@
 <p align="center"><b>Discord Activity</b><br/></p>
 <img src="https://lanyard.cnrad.dev/api/675737917200662539" alt="" /><br/>
 
+<p align="center"><b>Further Stats</b><br/></p>
+
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%20hr%2038%20mins-blue)
 
