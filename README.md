@@ -10,6 +10,12 @@
 
 <br/>
 
+<p align="center">
+     <h2 align="center"><b>📊 Stats </b></h2>
+   <p align="center">
+[![Discord Presence](https://lanyard.cnrad.dev/api/675737917200662539)](https://discord.com/users/675737917200662539)
+
+
 <!--START_SECTION:waka-->
 
 ```txt
@@ -21,6 +27,8 @@ fugitive   0 secs          ░░░░░░░░░░░░░░░░░�
 ```
 
 <!--END_SECTION:waka-->
+   </p>
+</p>
 
 <br/>
 
