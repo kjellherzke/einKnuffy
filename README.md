@@ -16,6 +16,26 @@
 <p align="center"><b>Discord Activity</b><br/></p>
 <img src="https://lanyard.cnrad.dev/api/675737917200662539" alt="" /><br/>
 
+
+<p align="center"><b>Skills</b><br/></p>
+
+```text
+💬 Programming Languages:
+Rust
+C++
+C#, Java
+Javascript, Typescript
+HTML, CSS, SASS/SCSS
+...
+
+🤹‍♂️ Frameworks / Libraries:
+NextJS, ReactJS
+Svelte, SvelteKit
+NodeJS, ExpressJS
+TRPC
+...
+```
+
 <p align="center"><b>Further Stats</b><br/></p>
 
 <!--START_SECTION:waka-->
@@ -62,11 +82,12 @@ raender                  10 mins             ███░░░░░░░░�
 
 <br/>
 
-<p align="center">
+<!-- <p align="center">
    <h2 align="center"><b>✨ Skills/Professions </b></h2>
    <p align="center">🆘 <b>Tools</b>: NextJS (or just ReactJS), ExpressJS, NodeJS, and many more <i>ending with JS</i>...</p>
    <p align="center">🏁 <b>Languages</b>: Rust, Javascript, Typescript, C#, Java, Python, Bash, (HTMl, CSS, SCSS/SASS)</p>
-</p>
+</p> -->
+
 <br/>
 <h3 align="center"><b>And so much more... I can't even list it here</b></h3>
 <p align="center">
