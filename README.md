@@ -11,9 +11,10 @@
 <br/>
 
 <p align="center">
-     <h2 align="center"><b>📊 Stats </b></h2>
+     <h2 align="center"><b>✨ Stats & Skills </b></h2>
    <p align="center">
-<img src="https://lanyard.cnrad.dev/api/675737917200662539" alt="" />
+<p align="center"><b>Discord Activity</b><br/></p>
+<img src="https://lanyard.cnrad.dev/api/675737917200662539" alt="" /><br/>
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%20hr%2038%20mins-blue)
