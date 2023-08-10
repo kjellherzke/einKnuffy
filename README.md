@@ -13,7 +13,7 @@
 <p align="center">
      <h2 align="center"><b>📊 Stats </b></h2>
    <p align="center">
-[![Discord Presence](https://lanyard.cnrad.dev/api/675737917200662539)](https://discord.com/users/675737917200662539)
+<img src="https://lanyard.cnrad.dev/api/675737917200662539" alt="" />
 
 
 <!--START_SECTION:waka-->
