@@ -23,6 +23,8 @@ jobs:
            SHOW_OS: "False" 
            SHOW_DAYS_OF_WEEK: "False" 
            SHOW_COMMIT: "True"
+           SYMBOL_VERSION: 1
+           SHOW_UPDATED_DATE: "False"
            SHOW_LANGUAGE_PER_REPO: "False"
            COMMIT_MESSAGE: "Updated with Wakatime Metrics" 
            COMMIT_USERNAME: "wakatime-autobot"
