@@ -14,10 +14,12 @@
      <h2 align="center"><b>✨ Stats & Skills </b></h2><br/>
    <p align="center">
 <p align="center"><b>That's it. Thanks for reading my profile 🤓</b></p>
-<img align="center" width="150px" src="https://i.kym-cdn.com/entries/icons/facebook/000/016/546/hidethepainharold.jpg" /><br/>
+<p align="center">
+<img align="center" width="150px" src="https://i.kym-cdn.com/entries/icons/facebook/000/016/546/hidethepainharold.jpg" /></p><br/>
 
 <p align="center"><b>Discord Activity</b><br/></p>
-<img src="https://lanyard.cnrad.dev/api/675737917200662539" alt="" /><br/>
+<p align="center">
+<img src="https://lanyard.cnrad.dev/api/675737917200662539" alt="" /></p><br/>
 
 
 <p align="center"><b>Skills</b><br/></p>
