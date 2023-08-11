@@ -3,7 +3,7 @@
    <a href="https://github.com/einKnuffy" target="_blank"><img width="150px" src="https://avatars.githubusercontent.com/u/66639485?s=400&u=fc9b6f7cbddb6dfbb93dc63483f7fc7aee75ac2e&v=4" /></a>
    <h1 align="center"><b>einknuffy</b></h1>
    <p align="center">A passsionate fullstack developer, based in Germany. <br/>
-   Padawan of <b><a href="" target="_blank">@ThePrimeagen</a></b> l<br/>
+   Padawan of <b><a href="">@ThePrimeagen</a></b> l<br/>
  <!--  Current project 🕜 : <b><a href="https://github.com/einKnuffy/" target="_blank">DreamBerd</a></b> -->
    </p>
 </p>
@@ -15,7 +15,7 @@
    <p align="center">
 <p align="center"><b>That's it. Thanks for reading my profile 🤓</b></p>
 <p align="center">
-<img align="center" width="150px" src="https://i.kym-cdn.com/entries/icons/facebook/000/016/546/hidethepainharold.jpg" /></p><br/><br/><br/><br/><br/>
+<img align="center" width="150px" src="https://i.kym-cdn.com/entries/icons/facebook/000/016/546/hidethepainharold.jpg" /></p><br/><br/>
 
 <p align="center"><b>Discord Activity</b><br/></p>
 <p align="center">
