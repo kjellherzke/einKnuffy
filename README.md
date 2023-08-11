@@ -2,8 +2,8 @@
    <br />
    <a href="https://github.com/einKnuffy" target="_blank"><img width="150px" src="https://avatars.githubusercontent.com/u/66639485?s=400&u=fc9b6f7cbddb6dfbb93dc63483f7fc7aee75ac2e&v=4" /></a>
    <h1 align="center"><b>einknuffy</b></h1>
-   <p align="center">A passsionate fullstack developer 👨🏻‍💻, based in Germany. <br/>
-   Padawan of <b><a alt="">@ThePrimeagen</a></b> <br/>
+   <p align="center">A passsionate fullstack developer, based in Germany. <br/>
+   Padawan of <b>@ThePrimeagen</b> <br/>
   Current project 🕜 : <b><a href="https://github.com/einKnuffy/paypaul">PayPaul</a></b>
    </p>
 </p>
