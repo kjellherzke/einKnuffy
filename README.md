@@ -2,9 +2,9 @@
    <br />
    <a href="https://github.com/einKnuffy" target="_blank"><img width="150px" src="https://avatars.githubusercontent.com/u/66639485?s=400&u=fc9b6f7cbddb6dfbb93dc63483f7fc7aee75ac2e&v=4" /></a>
    <h1 align="center"><b>einknuffy</b></h1>
-   <p align="center">A passsionate fullstack developer, based in Germany. <br/>
+   <p align="center">A passsionate fullstack developer 👨🏻‍💻, based in Germany. <br/>
    Padawan of <b><a href="">@ThePrimeagen</a></b> l<br/>
- <!--  Current project 🕜 : <b><a href="https://github.com/einKnuffy/" target="_blank">DreamBerd</a></b> -->
+  Current project 🕜 : <b><a href="https://github.com/einKnuffy/" target="_blank">DreamBerd</a></b> -->
    </p>
 </p>
 
