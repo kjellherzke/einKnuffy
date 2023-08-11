@@ -11,11 +11,11 @@
 <br/>
 
 <p align="center">
-     <h2 align="center"><b>✨ Stats & Skills </b></h2><br/>
+     <h2 align="center"><b>✨ Stats & Skills </b></h2>
    <p align="center">
 <p align="center"><b>That's it. Thanks for reading my profile 🤓</b></p>
 <p align="center">
-<img align="center" width="150px" src="https://i.kym-cdn.com/entries/icons/facebook/000/016/546/hidethepainharold.jpg" /></p><br/>
+<img align="center" width="150px" src="https://i.kym-cdn.com/entries/icons/facebook/000/016/546/hidethepainharold.jpg" /></p><br/><br/><br/><br/><br/>
 
 <p align="center"><b>Discord Activity</b><br/></p>
 <p align="center">
