@@ -4,25 +4,21 @@
    <h1 align="center"><b>einknuffy</b></h1>
    <p align="center">A passsionate fullstack developer, based in Germany. <br/>
    Padawan of <b>@ThePrimeagen</b> <br/>
-  Current project 🕜 : <b><a href="https://github.com/einKnuffy/paypaul">PayPaul</a></b>
+   Current project 🕜 : <b><a href="https://github.com/einKnuffy/paypaul">PayPaul</a></b><br/><br/>
+      
+   <p align="center">
+      <img src="https://lanyard.cnrad.dev/api/675737917200662539" alt="" width="300px" /></p>
    </p>
 </p>
 
-<br/>
+<br/><br/>
 
 <p align="center">
-     <h2 align="center"><b>✨ Stats & Skills </b></h2>
-   <p align="center">
-<p align="center"><b>That's it. Thanks for reading my profile 🤓</b></p>
+     <h2 align="center"><b>🏂 Skills</b></h2>
+      <p align="center">
+<!-- <p align="center"><b>That's it. Thanks for reading my profile 🤓</b></p>
 <p align="center">
-<img align="center" width="150px" src="https://i.kym-cdn.com/entries/icons/facebook/000/016/546/hidethepainharold.jpg" /></p><br/><br/>
-
-<p align="center"><b>Discord Activity</b><br/></p>
-<p align="center">
-<img src="https://lanyard.cnrad.dev/api/675737917200662539" alt="" /></p><br/>
-
-
-<p align="center"><b>Skills</b><br/></p>
+<img align="center" width="150px" src="https://i.kym-cdn.com/entries/icons/facebook/000/016/546/hidethepainharold.jpg" /></p><br/><br/> -->
 
 ```text
 💬 Programming Languages:
@@ -40,8 +36,14 @@ NodeJS, ExpressJS
 TRPC
 ...
 ```
+</p>
+</p>
 
-<p align="center"><b>Further Stats</b><br/></p>
+<br/><br/>
+
+<p align="center">
+    <h2 align="center"><b>⚡ Stats</b></h2>
+    <p align="center">
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%20hr%2038%20mins-blue)
