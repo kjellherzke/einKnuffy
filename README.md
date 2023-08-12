@@ -46,7 +46,7 @@ TRPC
     <p align="center">
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%20hr%2038%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%20hrs%2027%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-8.1%20million%20lines%20of%20code-blue)
 
@@ -66,13 +66,19 @@ TRPC
 🕑︎ Time Zone: Europe/Berlin
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+C++                      1 hr 1 min          ██████████████░░░░░░░░░░░   56.37 % 
+Lua                      36 mins             ████████░░░░░░░░░░░░░░░░░   33.27 % 
+Markdown                 5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.75 % 
+fugitive                 4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.53 % 
+Other                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.08 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Neovim                   1 hr 49 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+Unknown Project          58 mins             █████████████░░░░░░░░░░░░   53.25 % 
+nvim                     46 mins             ███████████░░░░░░░░░░░░░░   42.55 % 
+learning                 4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.20 % 
 ```
 
 
