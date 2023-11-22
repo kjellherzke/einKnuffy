@@ -46,7 +46,7 @@ TRPC
     <p align="center">
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-208%20hrs%2046%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-209%20hrs%2018%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-9.4%20million%20lines%20of%20code-blue)
 
@@ -66,10 +66,12 @@ TRPC
 🕑︎ Time Zone: Europe/Berlin
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Rust                     28 mins             ██████████████████████░░░   88.86 % 
+Lua                      2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.35 % 
+TOML                     0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.78 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Neovim                   32 mins             █████████████████████████   100.00 % 
 ```
 
 
