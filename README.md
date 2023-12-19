@@ -66,10 +66,10 @@ TRPC
 🕑︎ Time Zone: Europe/Berlin
 
 💬 Programming Languages: 
-Python                   0 secs              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Neovim                   0 secs              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
