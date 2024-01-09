@@ -46,7 +46,7 @@ TRPC
     <p align="center">
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-253%20hrs%2037%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-253%20hrs%2059%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-9.6%20million%20lines%20of%20code-blue)
 
@@ -66,13 +66,13 @@ TRPC
 🕑︎ Time Zone: Europe/Berlin
 
 💬 Programming Languages: 
-C#                       15 hrs 35 mins      █████████████████████████   99.80 % 
+C#                       15 hrs 57 mins      █████████████████████████   99.80 % 
 JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
 Csproj                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 XML                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔥 Editors: 
-Jetbrainsrider           15 hrs 37 mins      █████████████████████████   100.00 % 
+Jetbrainsrider           15 hrs 59 mins      █████████████████████████   100.00 % 
 ```
 
 
