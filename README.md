@@ -46,17 +46,17 @@ TRPC
     <p align="center">
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-254%20hrs%2036%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-254%20hrs%2043%20mins-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-12.5%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-9.6%20million%20lines%20of%20code-blue)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                505 commits         ██████░░░░░░░░░░░░░░░░░░░   24.46 % 
-🌆 Daytime                773 commits         █████████░░░░░░░░░░░░░░░░   37.43 % 
-🌃 Evening                783 commits         █████████░░░░░░░░░░░░░░░░   37.92 % 
-🌙 Night                  4 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
+🌞 Morning                494 commits         ██████░░░░░░░░░░░░░░░░░░░   24.90 % 
+🌆 Daytime                748 commits         █████████░░░░░░░░░░░░░░░░   37.70 % 
+🌃 Evening                738 commits         █████████░░░░░░░░░░░░░░░░   37.20 % 
+🌙 Night                  4 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 % 
 ```
 
 
@@ -66,10 +66,11 @@ TRPC
 🕑︎ Time Zone: Europe/Berlin
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   4 mins              ██████████████░░░░░░░░░░░   55.28 % 
+checkhealth              3 mins              ███████████░░░░░░░░░░░░░░   44.72 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Neovim                   7 mins              █████████████████████████   100.00 % 
 ```
 
 
