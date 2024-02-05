@@ -46,17 +46,17 @@ TRPC
     <p align="center">
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-261%20hrs%2052%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-259%20hrs%2037%20mins-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-12.3%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-9.4%20million%20lines%20of%20code-blue)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                514 commits         ██████░░░░░░░░░░░░░░░░░░░   24.94 % 
-🌆 Daytime                767 commits         █████████░░░░░░░░░░░░░░░░   37.21 % 
-🌃 Evening                776 commits         █████████░░░░░░░░░░░░░░░░   37.65 % 
-🌙 Night                  4 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
+🌞 Morning                503 commits         ██████░░░░░░░░░░░░░░░░░░░   25.40 % 
+🌆 Daytime                742 commits         █████████░░░░░░░░░░░░░░░░   37.47 % 
+🌃 Evening                731 commits         █████████░░░░░░░░░░░░░░░░   36.92 % 
+🌙 Night                  4 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 % 
 ```
 
 
