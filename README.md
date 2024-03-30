@@ -6,12 +6,13 @@
    Padawan of <b>@ThePrimeagen</b> <br/>
    Current project 🕜 : <b><a href="https://github.com/einKnuffy">None</a></b><br/><br/>
       
-   <p align="center">
+   <!--<p align="center">
       <img src="https://lanyard.cnrad.dev/api/675737917200662539" alt="" width="300px" /></p>
-   </p>
+   </p><br/>-->
+   <!--<p align="center">
+      <img src="https://github-readme-stats-einknuffy.vercel.app/api/top-langs/?username=einKnuffy&layout=donut" alt="" width="300px" /></p>
+   </p>-->
 </p>
-
-<br/><br/>
 
 <p align="center">
      <h2 align="center"><b>🏂 Skills</b></h2>
