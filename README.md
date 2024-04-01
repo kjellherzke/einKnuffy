@@ -4,9 +4,11 @@
     <img width="150px" src="https://avatars.githubusercontent.com/u/66639485?s=400&u=fc9b6f7cbddb6dfbb93dc63483f7fc7aee75ac2e&v=4" />
  </a>
  <h1 align="center"><b>einknuffy</b></h1>
- <p align="center">A passionate fullstack developer, based in Germany. <br/>
- Padawan of <b>@ThePrimeagen</b> <br/>
- Current project 🕜 : <b><a href="https://github.com/einKnuffy">None</a></b><br/><br/>
+ <p align="center">
+  A passionate fullstack developer, based in Germany. <br/>
+  Padawan of <b>@ThePrimeagen</b> <br/>
+  Current project 🕜 : <b><a href="https://github.com/einKnuffy">None</a></b> <br/> <br/>
+  <img src="/powered-by-electricity.svg" /> <br/> <br/> 
 </p>
 
 <!-- Uncomment and use the following lines if you want to include dynamic content like stats or badges
